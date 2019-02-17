@@ -1,0 +1,2 @@
+  include "ftgo-consumer-service-api"
+  include "ftgo-consumer-service-contracts"
